@@ -1,6 +1,6 @@
 # Face Expression Music Recommendation 🎵😄
 
-This project recommends songs based on the **user's facial expression** detected via webcam in real-time.
+This project recommends songs based on the **user's facial expression** detected via webcam in real-time
 
 ---
 
